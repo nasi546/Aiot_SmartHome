@@ -155,10 +155,17 @@
 
 ---
 
-## 📽 시연 영상
+## 🎬 기능별 시연 영상 모음
 
-> 레포에 GIF 또는 동영상 링크를 추가할 예정입니다.  
-> 예시 (GIF 파일을 `images/smarthome_demo.gif`에 넣었다면):
+| 진동 감지 | 화재 감지 | 가스 감지 |
+| --- | --- | --- |
+| ![](images/shake.gif) | ![](images/fire.gif) | ![](images/gas.gif) |
 
-```markdown
-![Smart Home Demo](images/smarthome_demo.gif)
+| 온·습도/날씨 | 자동 히터 | 자동 창문 |
+| --- | --- | --- |
+| ![](images/weather.gif) | ![](images/auto_heater.gif) | ![](images/auto_window.gif) |
+
+| PIR 감지(입장/퇴장) | RFID 출입 |
+| --- | --- |
+| ![](images/pir_in.gif) ![](images/pir_out.gif) | ![](images/rfid.gif) |
+
