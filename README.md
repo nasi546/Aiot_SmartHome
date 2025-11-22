@@ -159,13 +159,14 @@
 
 | 진동 감지 | 화재 감지 | 가스 감지 |
 | --- | --- | --- |
-| ![](images/shake.gif) | ![](images/fire.gif) | ![](images/gas.gif) |
+| ![](images/shakesensor.gif) | ![](images/firesensor.gif) | ![](images/gas%20senser.gif) |
 
 | 온·습도/날씨 | 자동 히터 | 자동 창문 |
 | --- | --- | --- |
-| ![](images/weather.gif) | ![](images/auto_heater.gif) | ![](images/auto_window.gif) |
+| ![](images/weathersenter.gif) | ![](images/autotempureater.gif) | ![](images/autowindow.gif) |
 
 | PIR 감지(입장/퇴장) | RFID 출입 |
 | --- | --- |
-| ![](images/pir_in.gif) ![](images/pir_out.gif) | ![](images/rfid.gif) |
+| ![](images/pirsenserup.gif) ![](images/pirsenserdown.gif) | ![](images/rfidup.gif) |
+
 
