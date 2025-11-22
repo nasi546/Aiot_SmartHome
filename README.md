@@ -157,16 +157,43 @@
 
 ## 🎬 기능별 시연 영상 모음
 
-| 진동 감지 | 화재 감지 | 가스 감지 |
-| --- | --- | --- |
-| ![](images/shakesensor.gif) | ![](images/firesensor.gif) | ![](images/gas%20senser.gif) |
+<table>
+  <tr>
+    <th>진동 감지</th>
+    <th>화재 감지</th>
+    <th>가스 감지</th>
+  </tr>
+  <tr>
+    <td><img src="images/shakesensor.gif" width="260"></td>
+    <td><img src="images/firesensor.gif" width="260"></td>
+    <td><img src="images/gas%20senser.gif" width="260"></td>
+  </tr>
 
-| 온·습도/날씨 | 자동 히터 | 자동 창문 |
-| --- | --- | --- |
-| ![](images/weathersenter.gif) | ![](images/autotempureater.gif) | ![](images/autowindow.gif) |
+  <tr>
+    <th>온·습도/날씨</th>
+    <th>자동 히터</th>
+    <th>자동 창문</th>
+  </tr>
+  <tr>
+    <td><img src="images/weathersenter.gif" width="260"></td>
+    <td><img src="images/autotempureater.gif" width="260"></td>
+    <td><img src="images/autowindow.gif" width="260"></td>
+  </tr>
 
-| PIR 감지(입장/퇴장) | RFID 출입 |
-| --- | --- |
-| ![](images/pirsenserup.gif) ![](images/pirsenserdown.gif) | ![](images/rfidup.gif) |
+  <tr>
+    <th>PIR 감지(입장/퇴장)</th>
+    <th>RFID 출입</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="images/pirsenserup.gif" width="260"><br>
+      <img src="images/pirsenserdown.gif" width="260">
+    </td>
+    <td>
+      <img src="images/rfidup.gif" width="260">
+    </td>
+  </tr>
+</table>
+
 
 
